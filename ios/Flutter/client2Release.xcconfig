@@ -1,0 +1,7 @@
+#include "Generated.xcconfig"
+
+FLUTTER_TARGET=lib/main_client2.dart
+ASSET_PREFIX=client2
+BUNDLE_NAME=Second Client
+title=Second App
+background_color=yellow
