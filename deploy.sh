@@ -13,3 +13,4 @@
 # done
 
 pwd;
+echo "READ"
